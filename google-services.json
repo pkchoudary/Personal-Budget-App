@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298230967216",
+    "project_id": "personalbudget-dc049",
+    "storage_bucket": "personalbudget-dc049.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298230967216:android:5694cf0f5f338cdd4f8475",
+        "android_client_info": {
+          "package_name": "com.Nexus.PersonalBudget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClJsFMqINphQhwspJUvg-A2cP4C8XhLts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
